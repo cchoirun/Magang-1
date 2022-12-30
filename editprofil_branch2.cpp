@@ -4,5 +4,5 @@
 
 int main(){
 
-    std:: << "Fingerprint yang dimasukkan dapat lebih dari 5 fingerprint" << std::endl;
+    std::cout << "Fingerprint yang dimasukkan dapat lebih dari 5 fingerprint" << std::endl;
 }
